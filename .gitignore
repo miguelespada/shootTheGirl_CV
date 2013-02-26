@@ -1,0 +1,10 @@
+bin/lemmingsCV.app
+bin/.DS_Store
+
+bin/lemmingsCV.app/Contents/MacOS/lemmingsCV
+
+*.pbxproj
+
+*.pbxproj
+
+*.xcworkspacedata
